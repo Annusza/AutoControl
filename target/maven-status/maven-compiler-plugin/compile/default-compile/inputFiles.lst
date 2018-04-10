@@ -1,0 +1,13 @@
+E:\Eclipse JEE workspace\AutoControl\src\main\java\servlets\LoginServlet.java
+E:\Eclipse JEE workspace\AutoControl\src\main\java\servlets\RegistrationServlet.java
+E:\Eclipse JEE workspace\AutoControl\src\main\java\filters\PremiumFilter.java
+E:\Eclipse JEE workspace\AutoControl\src\main\java\domain\User.java
+E:\Eclipse JEE workspace\AutoControl\src\main\java\filters\NotLoggedInFilter.java
+E:\Eclipse JEE workspace\AutoControl\src\main\java\repositories\DummyUserRepository.java
+E:\Eclipse JEE workspace\AutoControl\src\main\java\servlets\UserProfileServlet.java
+E:\Eclipse JEE workspace\AutoControl\src\main\java\servlets\UserListServlet.java
+E:\Eclipse JEE workspace\AutoControl\src\main\java\repositories\UserRepository.java
+E:\Eclipse JEE workspace\AutoControl\src\main\java\filters\LoggedInFilter.java
+E:\Eclipse JEE workspace\AutoControl\src\main\java\servlets\Servlets.java
+E:\Eclipse JEE workspace\AutoControl\src\main\java\repositories\FakeDb.java
+E:\Eclipse JEE workspace\AutoControl\src\main\java\filters\AdminFilter.java
